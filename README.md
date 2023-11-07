@@ -15,14 +15,18 @@ Later this project may extented by the author [Laxr24](https://github.com/Laxr24
 2. HC-05 Operation  -----> [HC-05](https://lastminuteengineers.com/hc05-bluetooth-arduino-tutorial/)
 
 ### Diagram and image
-
-![Circuit setup diagram](https://europe1.discourse-cdn.com/arduino/original/4X/8/6/9/8696ccaf689dc8e0bd0cf6bb9924871f98febb76.jpeg)
+<img src="https://europe1.discourse-cdn.com/arduino/original/4X/8/6/9/8696ccaf689dc8e0bd0cf6bb9924871f98febb76.jpeg" width="100%" style="max-width:400px; margin:10px auto; display:block;"/>
     
-                        Figure: Car Circuit setup 
+<p style="text-align:center; display:block;"> Figure 1.1: Car Circuit setup</p> 
     
-<img src="./Images/car.jpg" width="100%"/>
+<img src="./Images/car.jpg" width="100%" style="max-width:400px; margin:10px auto; display:block;"/>
 
-                        Figure: Bluetooth Car full setup
+<p style="text-align:center; display:block;"> Figure 1.2: Arduino Car</p>
 
-
+```html
+    <h1> Hello world</h1>
+    <script>
+        console.log("Hello world")
+    </script>
+```
 
