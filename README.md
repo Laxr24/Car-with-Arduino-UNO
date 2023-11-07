@@ -23,10 +23,19 @@ Later this project may extented by the author [Laxr24](https://github.com/Laxr24
 
 <p style="text-align:center; display:block;"> Figure 1.2: Arduino Car</p>
 
-```html
-    <h1> Hello world</h1>
-    <script>
-        console.log("Hello world")
-    </script>
+```js
+    console.log("hello world")
+    var i = 10
+    alert(`This is fun ${i}`)
+```
+
+```css
+    body{
+        background-color: red; 
+    }
+```
+
+```py
+    println(f"Hello ${value} world"); 
 ```
 
