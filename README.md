@@ -50,3 +50,16 @@ All libraries are includend in the library folder.
 <p style="text-align:center;"> Figure 1.2: Arduino Car</p>
 
 
+## Issues/Field of interests ✨
+
+### 1. Power
+    Supplying power to this card is quite tricky. It doesn't seem much but under the hoot it takes has to take care of some of the most critical problems in the world of electronics. 
+    
+    With basic observation and data analysis it is proven that the motor/wheel module used in this car are powered by DC motors which draws around 600mA incursh current and ~400mA current to operate without additional circuit protections.
+
+### 2. BMS & Charging 🔋⚡
+    The battery pack is built with care by combining sereies/parrallel connections and hence the battery charging systems is also different with them. For the 3 mobile cells connected with a parallel BMS with heat, overcurrent and short circuit protection built it. And the beafy pack with 3 Li-ion batteries are connected in series with them to built up the suitable potential for operation. 
+
+
+### 2. Algorithms and code optimizations
+    When the spped of the motor is fixed/constant by the internal code and when the code is optimized to ramp up the speed of the motor with time it behaves differently and affects the energy consumption differently.  
